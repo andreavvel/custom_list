@@ -33,6 +33,7 @@ namespace custom_list
             {
                 stringChars[i] = chars[random.Next(chars.Length)];
             }
+            /bdaudbawuydbawuy
             return new String(stringChars); */
         }
 
