@@ -29,11 +29,11 @@ namespace custom_list
             var chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
             var stringChars = new char[20];
             var random = new Random();
-            for (int i = 0; i < stringChars.Length; i++)
+            /* for (int i = 0; i < stringChars.Length; i++)
             {
                 stringChars[i] = chars[random.Next(chars.Length)];
             }
-            return new String(stringChars);
+            return new String(stringChars); */
         }
 
         private void items()
@@ -41,11 +41,11 @@ namespace custom_list
             UserControl1[] item = new UserControl1[20];
             for(int i = 0; i < item.Length; i++)
             {
-                item[i] = new UserControl1();
+                /* item[i] = new UserControl1();
                 item[i].NameUser = randomString().Substring(0, 20) + "...";
                 item[i].Document = randomString().Substring(0, 10) + "...";
                 item[i].Vehicle = randomString().Substring(0, 10) + "...";
-                item[i].Cost = randomString().Substring(0, 10) + "...";
+                item[i].Cost = randomString().Substring(0, 10) + "..."; */
 
                 //flowLayoutPanel1.Controls.Clear();
                 flowLayoutPanel1.Controls.Add(item[i]);
