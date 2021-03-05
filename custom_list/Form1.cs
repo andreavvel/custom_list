@@ -38,6 +38,7 @@ namespace custom_list
 
         private void items()
         {
+            //Hola es es mi otro comentario
             UserControl1[] item = new UserControl1[20];
             for(int i = 0; i < item.Length; i++)
             {
