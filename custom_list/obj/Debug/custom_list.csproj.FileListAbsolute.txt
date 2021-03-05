@@ -1,0 +1,12 @@
+C:\Users\Josué\Desktop\C#\custom_list\custom_list\bin\Debug\custom_list.exe.config
+C:\Users\Josué\Desktop\C#\custom_list\custom_list\bin\Debug\custom_list.exe
+C:\Users\Josué\Desktop\C#\custom_list\custom_list\bin\Debug\custom_list.pdb
+C:\Users\Josué\Desktop\C#\custom_list\custom_list\obj\Debug\custom_list.Form1.resources
+C:\Users\Josué\Desktop\C#\custom_list\custom_list\obj\Debug\custom_list.Properties.Resources.resources
+C:\Users\Josué\Desktop\C#\custom_list\custom_list\obj\Debug\custom_list.UserControl1.resources
+C:\Users\Josué\Desktop\C#\custom_list\custom_list\obj\Debug\custom_list.csproj.GenerateResource.cache
+C:\Users\Josué\Desktop\C#\custom_list\custom_list\obj\Debug\custom_list.csproj.CoreCompileInputs.cache
+C:\Users\Josué\Desktop\C#\custom_list\custom_list\obj\Debug\custom_list.exe
+C:\Users\Josué\Desktop\C#\custom_list\custom_list\obj\Debug\custom_list.pdb
+C:\Users\Josué\Desktop\C#\custom_list\custom_list\obj\Debug\custom_list.table.resources
+C:\Users\Josué\Desktop\C#\custom_list\custom_list\obj\Debug\custom_list.csprojAssemblyReference.cache
