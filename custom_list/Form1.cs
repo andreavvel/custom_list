@@ -25,6 +25,7 @@ namespace custom_list
 
         private string randomString()
         {
+            //Este es mi comentario
             var chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
             var stringChars = new char[20];
             var random = new Random();
